@@ -124,3 +124,5 @@ Long-tail categories need optimization
 ⚖️ Balanced gender participation
 
 💰 Discounts help but are not the only driver
+
+![image alt](https://github.com/Mahendra2525/ECOMMERS-PROJECT/blob/897917f138efcdbf5b197e9d61b1158a0ffb041f/ECommers%20PBI.png)
